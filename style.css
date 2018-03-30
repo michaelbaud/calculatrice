@@ -1,0 +1,26 @@
+* {
+	margin: 2px;
+}
+
+button {
+	width: 60px;
+	box-shadow: grey 0px 2px 2px;
+}
+
+.container {
+	margin: 0;
+	padding: 0;
+	width: 100vw;
+	height: 100vh;
+	display: flex;
+}
+
+#calcul {
+	margin: auto;
+	border: 1px solid grey;
+	border-radius: 10px;
+	padding: 30px;
+	text-align: center;
+	box-shadow: grey 0px 5px 5px;
+}
+
